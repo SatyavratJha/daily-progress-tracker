@@ -4,17 +4,17 @@ Will be updating my daily progress consistently
 
 ## 🚀 Progress Journal
 
-### Today's Update // 2025-09-01
+### Today's Update // 2025-09-02
 
-- **🧠 Today's Focus:** [worked on urgent and important personal tasks]
+- **🧠 Today's Focus:** [learned about JSX and components]
 - **✅ Tasks Completed:**
   - [ ] No tangible progress to report.
 - **🚧 Current Blockers:**
-  - [ ] Identify the reason for no progress: [personal tasks with a deadline].
+  - [ ] Identify the reason for no progress: [Couldn't got ahead more than 2 lectures].
 - **📚 What I Learned:**
   - Need to manage time more efficiently and work on my project along with personal tasks
 - **⏭️ What's Next:**
-  - [ ] Tomorrow morning at 9 AM IST, I'll deep dive on:
+  - [ ] Tomorrow morning at 9 AM IST, I'll again deep dive on:
     - **JSX**
     - **Components**
     - **State**
