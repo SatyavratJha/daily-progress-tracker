@@ -4,7 +4,7 @@ Will be updating my daily progress consistently
 
 ## 🚀 Progress Journal
 
-## 📋 Today's Update - [8th September 2025]
+## 📋 Today's Update - [15th September 2025]
 
 ### ✅ Tasks Performed Today
 
@@ -23,5 +23,5 @@ Will be updating my daily progress consistently
 
 **Project Name:** [Java-React and 1 LeetCode per Day]
 
-- **Status:** On hold due to [didn't want to do anything, feeling lethargy, unmotivated]
-- **Action Plan:** [Will work on Java-React and 1 LeetCode per Day from tomorrow]
+- **Status:** On hold due to [npx create-react-app not working ]
+- **Action Plan:** [solve npx create-react-app issues]
